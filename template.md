@@ -30,7 +30,7 @@ My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase
 **Developed AirAware**, a portable device that monitors **CO, CO₂, dust, temperature, and humidity levels** in real time.  
 
 <a href="https://www.youtube.com/watch?v=SZdRbrvS93k&feature=youtu.be" target="_blank">
-  <img src="https://img.youtube.com/vi/SZdRbrvS93k/maxresdefault.jpg" width="600">
+  <img src="https://github.com/Dramaticgod/Dramaticgod/blob/main/air.png" width="600">
 </a>
 
 ---
