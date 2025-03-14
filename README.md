@@ -6,8 +6,9 @@ My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase
 
 ---
 
-## 📫 **Connect with Me**  
-<p align="center">
+
+<p align="left">
+  <strong>📩 Connect with Me:</strong> &nbsp;
   <a href="mailto:jashs2974@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&label=" height="40">
   </a>
@@ -15,7 +16,6 @@ My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&label=" height="40">
   </a>
 </p>
-
 ---
 
 # 🚀 **JARS Rover Project** - A Web-Controlled Rover  
