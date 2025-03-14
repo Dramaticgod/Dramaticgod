@@ -1,21 +1,19 @@
 # Hi, I'm Jash! 👋  
 ### Computer Science Student | Full-Stack Developer | Embedded Systems Enthusiast  
 
-🚀 Passionate about **AI, IoT, and Robotics**. Currently working on **Mars Rover** using **Arduino & ESP32**!  
+🚀 Passionate about different aspects of computer science.My most current project is **Jars Rover** using **Arduino, ESP32, Amazon EC2, Firebase**!  
 
 ---
 
-## 🚀 **Mars Rover Project**
-🔗 **Website**: [Visit Here](https://your-rover-website.com)  
-🎥 **Demo Video**: [Watch on YouTube](https://your-youtube-link.com)  
-📸 **Gallery**:  
-![Rover](https://your-image-link.com)  
+## 🚀 **JARS Rover Project** - Created a rover with web controls using Google Firebase, Arduino & GalaxyRVR
+🔗 **Website**: [Visit Here](https://itsjash.com/rover.html)  
+🎥 **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=9_svSL55m3o&feature=youtu.be)  
 
 ### 🔥 **Latest Features**
-- ✅ Added **AWS IoT Core integration** for real-time data updates.  
-- ✅ Improved **sensor accuracy** with Kalman filtering.  
-- ✅ Optimized **navigation algorithms** for rough terrain.  
-
+- ✅ Added **Web Control** using Firebase
+- ✅ Added **WIFI** by reflashing ESP32CAM that game with galaxyRVR
+- ✅ Added IR Remote control functionality
+  
 ### 🛠️ **Technologies Used**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-0078D7?style=for-the-badge&logo=espressif)
@@ -25,11 +23,11 @@
 ---
 
 ## 🏆 **GitHub Stats**
-![Jash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jashs&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jashs&layout=compact&theme=radical)
+![Jash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dramaticgod&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dramaticgod&layout=compact&theme=radical)
 
 ---
 
 ### 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jash-sh/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:jashs2974@email.com)
