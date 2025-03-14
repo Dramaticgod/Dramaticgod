@@ -1,12 +1,12 @@
-## Hi, I'm Jash! 👋  
-### Computer Science Student | Full-Stack Developer | Embedded Systems Enthusiast  
+# Hi, I'm Jash! 👋  
+## Computer Science Student | Full-Stack Developer | Embedded Systems Enthusiast  
 
 🚀 I am undegrad student at UIC who is passionate about different aspects of computer science.
 My most current project is **Jars Rover** using **Arduino, ESP32, Amazon EC2, Firebase**!  
 
 ---
 
-# 🚀 **JARS Rover Project** - Creating a rover which can be controlled by a website
+## 🚀 **JARS Rover Project** - Creating a rover which can be controlled by a website
 🔗 **Website**: [Visit Here](https://itsjash.com/rover.html)  
 🎥 **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=9_svSL55m3o&feature=youtu.be)  
 
