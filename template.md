@@ -4,6 +4,9 @@
 I am an undergrad student at **UIC**, passionate about different aspects of **computer science**.  
 My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase**!  
 
+### 📫 **Connect with Me**  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jashs2974@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jash-sh/)
 ---
 
 ## 🚀 **JARS Rover Project** - Creating a rover that can be controlled by a website
