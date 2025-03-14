@@ -1,11 +1,11 @@
-# Hi, I'm Jash! 👋  
+## Hi, I'm Jash! 👋  
 ### Computer Science Student | Full-Stack Developer | Embedded Systems Enthusiast  
 
 🚀 Passionate about different aspects of computer science.My most current project is **Jars Rover** using **Arduino, ESP32, Amazon EC2, Firebase**!  
 
 ---
 
-## 🚀 **JARS Rover Project** - Created a rover with web controls using Google Firebase, Arduino & GalaxyRVR
+# 🚀 **JARS Rover Project** - Created a rover with web controls using Google Firebase, Arduino & GalaxyRVR
 🔗 **Website**: [Visit Here](https://itsjash.com/rover.html)  
 🎥 **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=9_svSL55m3o&feature=youtu.be)  
 
