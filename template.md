@@ -1,8 +1,8 @@
 # Hi, I'm Jash! 👋  
 ## Computer Science Student | Full-Stack Developer | Embedded Systems Enthusiast  
 
-🚀 I am undegrad student at UIC who is passionate about different aspects of computer science.
-My most current project is **Jars Rover** using **Arduino, ESP32, Amazon EC2, Firebase**!  
+I am undegrad student at UIC who is passionate about different aspects of computer science.
+My recent project is **Jars Rover** using **Arduino, ESP32, Amazon EC2, Firebase**!  
 
 ---
 
@@ -24,8 +24,24 @@ My most current project is **Jars Rover** using **Arduino, ESP32, Amazon EC2, Fi
 ---
 
 ## 🚀 **Recent Projects**
-📌 [**AirAware**](https://github.com/Dramaticgod/AirAware) - Developed AirAware a portable device to monitor CO, CO2, dust, temperature, and humidity levels
-      🎥 [Watch Demo](https://www.youtube.com/watch?v=SZdRbrvS93k&feature=youtu.be)
-📌 [**JARS**](https://itsjash.com/chatbox.html) - Built JARS (Jash’s Automatic Response System) using OpenAI API, allowing users to ask questions about me
-📌 [**JARS To-Do App**](https://www.youtube.com/watch?v=EpxASzmFrNw&feature=youtu.be) - Integrated JARS into a Flutter Task-App, enabling users to chat with JARS to get more details about their tasks
+### 📡 **AirAware**  
+[📌 **GitHub Repo**](https://github.com/Dramaticgod/AirAware) • 🎥 [**Watch Demo**](https://www.youtube.com/watch?v=SZdRbrvS93k&feature=youtu.be)  
+**Developed AirAware**, a portable device that monitors **CO, CO₂, dust, temperature, and humidity levels** in real time.
 
+[![Watch Demo](https://img.youtube.com/vi/SZdRbrvS93k/maxresdefault.jpg)](https://www.youtube.com/watch?v=SZdRbrvS93k)
+
+---
+
+### 🤖 **JARS (Jash’s Automatic Response System)**  
+[📌 **Try It Here**](https://itsjash.com/chatbox.html)  
+**Built JARS**, an AI chatbot powered by **OpenAI API**, allowing users to ask questions about me in real-time.
+
+---
+
+### ✅ **JARS To-Do App**  
+🎥 [**Watch Demo**](https://www.youtube.com/watch?v=EpxASzmFrNw&feature=youtu.be)  
+**Integrated JARS** into a **Flutter Task-App**, enabling users to chat with JARS to get more details about their tasks.
+
+[![Watch Demo](https://img.youtube.com/vi/EpxASzmFrNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=EpxASzmFrNw)
+
+---
