@@ -3,15 +3,15 @@
 
 I am an undergrad student at **UIC**, passionate about different aspects of **computer science**.  
 My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase**!  
-
-<p align="left">
+<p align="right">
   <a href="mailto:jashs2974@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40" style="margin-right: 15px;">
   </a>
   <a href="https://www.linkedin.com/in/jash-sh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
   </a>
 </p>
+
 
 ---
 
