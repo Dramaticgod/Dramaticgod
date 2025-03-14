@@ -16,7 +16,7 @@ My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase
 ---
 
 
-# 🚀 **JARS Rover Project** - A Web-Controlled Rover  
+## 🚀 **JARS Rover** - A Web-Controlled Rover  
 🔗 <a href="https://itsjash.com/rover.html" target="_blank">**Website: Visit Here**</a>  
 🎥 <a href="https://www.youtube.com/watch?v=9_svSL55m3o&feature=youtu.be" target="_blank">**Watch on YouTube**</a>  
 
@@ -39,7 +39,7 @@ My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase
 
 ---
 
-# 🌟 **Recent Projects**
+
 ## 📡 **AirAware** - Portable Air Quality Monitor  
 📌 <a href="https://github.com/Dramaticgod/AirAware" target="_blank">**GitHub Repo**</a>  
 🎥 <a href="https://www.youtube.com/watch?v=SZdRbrvS93k&feature=youtu.be" target="_blank">**Watch Demo**</a>  
