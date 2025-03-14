@@ -5,9 +5,14 @@ I am an undergrad student at **UIC**, passionate about different aspects of **co
 My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase**!  
 
 ### 📫 **Connect with Me**  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jashs2974@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jash-sh/)
----
+<p align="left">
+  <a href="mailto:jashs2974@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&label=" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/jash-sh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&label=" height="40">
+  </a>
+</p>
 
 ## 🚀 **JARS Rover Project** - Creating a rover that can be controlled by a website
 🔗 <a href="https://itsjash.com/rover.html" target="_blank">**Website: Visit Here**</a>  
