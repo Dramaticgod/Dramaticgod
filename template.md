@@ -9,6 +9,8 @@ My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase
 ## 🚀 **JARS Rover Project** - Creating a rover that can be controlled by a website
 🔗 <a href="https://itsjash.com/rover.html" target="_blank">**Website: Visit Here**</a>  
 🎥 <a href="https://www.youtube.com/watch?v=9_svSL55m3o&feature=youtu.be" target="_blank">**Demo Video: Watch on YouTube**</a>  
+📸 **Gallery**:  
+![Rover](https://github.com/Dramaticgod/Dramaticgod/blob/main/rover.png)  
 
 ### 🔥 **Latest Features**
 - ✅ Added **Web Control** using Firebase  
@@ -30,10 +32,22 @@ My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase
 **Developed AirAware**, a portable device that monitors **CO, CO₂, dust, temperature, and humidity levels** in real time.  
 
 <a href="https://www.youtube.com/watch?v=SZdRbrvS93k&feature=youtu.be" target="_blank">
-  <img src="https://github.com/Dramaticgod/Dramaticgod/blob/main/air.png" width="600">
+  <img src="https://github.com/Dramaticgod/Dramaticgod/blob/main/air.png" width="300">
 </a>
 
 ---
+
+
+### ✅ **JARS To-Do App**  
+🎥 <a href="https://www.youtube.com/watch?v=EpxASzmFrNw&feature=youtu.be" target="_blank">**Watch Demo**</a>  
+**Integrated JARS** into a **Flutter Task-App**, enabling users to chat with JARS to get more details about their tasks.  
+
+<a href="https://www.youtube.com/watch?v=EpxASzmFrNw&feature=youtu.be" target="_blank">
+  <img src="https://github.com/Dramaticgod/Dramaticgod/blob/main/jars.png" width="300">
+</a>
+
+---
+
 
 ### 🤖 **JARS (Jash’s Automatic Response System)**  
 📌 <a href="https://itsjash.com/chatbox.html" target="_blank">**Try It Here**</a>  
@@ -41,10 +55,3 @@ My recent project is **JARS Rover** using **Arduino, ESP32, Amazon EC2, Firebase
 
 ---
 
-### ✅ **JARS To-Do App**  
-🎥 <a href="https://www.youtube.com/watch?v=EpxASzmFrNw&feature=youtu.be" target="_blank">**Watch Demo**</a>  
-**Integrated JARS** into a **Flutter Task-App**, enabling users to chat with JARS to get more details about their tasks.  
-
-<a href="https://www.youtube.com/watch?v=EpxASzmFrNw&feature=youtu.be" target="_blank">
-  <img src="https://img.youtube.com/vi/EpxASzmFrNw/maxresdefault.jpg" width="600">
-</a>
